@@ -1,4 +1,4 @@
-YeGes App
+## YeGes App
 ## About
 
 YeGes App (Yellow paGes UMKM App) dirilis pada tahun 2024. Aplikasi ini sederhana dibuat untuk memudahkan pengguna dalam mencari dan menemukan informasi mengenai UMKM baik secara detail atau spesifik didalam aplikasi ini. Pengguna juga bisa menyimpan, mengupdate dan menghapus informasi mengenai Usaha Mikro, Kecil, dan Menengah (UMKM). Aplikasi ini menggunakan data dari file CSV untuk menyimpan informasi UMKM seperti nama usaha, kategori usaha, alamat nomor telepon, dan email. Menyimpan data dengan file CSV akan memudahkan siapaun untuk diakses. Yellow Pages UMKM app ini menawarkan fitur meliputi:
